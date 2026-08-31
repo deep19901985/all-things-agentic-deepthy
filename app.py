@@ -168,7 +168,7 @@ def _render_analysis(result: AnalysisResult) -> None:
 
     st.subheader("Run metrics")
     metrics = result.metrics
-    metric_cols = st.columns(5)
+    metric_cols = st.columns([1.6, 1, 1, 1, 1])
     metric_cols[0].metric("Model", metrics.model)
     metric_cols[1].metric("Latency", f"{metrics.latency_ms} ms")
     metric_cols[2].metric("Input tokens", metrics.input_tokens or "Unavailable")
