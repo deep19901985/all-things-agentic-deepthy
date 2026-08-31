@@ -66,7 +66,7 @@
 
   **Participant pause 1:** Show Deepthy the local MVP and request visual/behaviour feedback before deployment polish.
 
-- [ ] **8. Add presentation and reproducibility assets**
+- [x] **8. Add presentation and reproducibility assets**
   Spec ref: `spec.md > Demo And Submission Flow`
   What to build: Add compact control-room styling, a complete README with setup/deployment/testing/disclosure, and an architecture diagram source plus exportable image.
   Acceptance: A stranger can understand, run, and deploy the project; the interface clearly distinguishes demo metadata and estimated cost.
