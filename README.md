@@ -28,6 +28,8 @@ Operations dashboards stale.
 
 See [docs/architecture.md](docs/architecture.md).
 
+![Data Incident Action Agent architecture](docs/architecture.png)
+
 ## Run locally
 
 Requires Python 3.12.
@@ -111,4 +113,3 @@ reviews the generated recovery and communication outputs.
 ## Licence
 
 Apache-2.0.
-
