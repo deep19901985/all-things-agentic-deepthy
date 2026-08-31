@@ -67,3 +67,6 @@
   `ok` in preview mode.
 - Deferred verification: real Gemini call and Cloud Run deployment require
   Google Cloud authentication outside this workspace.
+- Published the application, tests, Docker configuration, README, architecture,
+  licence, and build documentation to the public GitHub repository
+  `deep19901985/all-things-agentic-deepthy`.
